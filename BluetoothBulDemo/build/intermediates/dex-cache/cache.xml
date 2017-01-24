@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/volkan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_dbb512c27ec30ed125396b58ade59588da80b7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="9c7400dee9b44ea6d054f44627beca893442bebf">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dc62292ea48103430cd999a2b824ef0de95e8cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/volkan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha5/constraint-layout-solver-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="73c7b3e257448abfb473f8833b05e7e055cb3fd9">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha5_58ab77abd4daccaebfec59611548def3fc725fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_88d03cb5f4b6932af6e4e32b2ee591e8b4d3434f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_2d3151bef607f57a19cb33d363a7a59ace927a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha5/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e9c2f03f5e8a91877d3b6e3d72881680ac0fbc24">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha5_e2d654534a192be588c96f7851d6aa64188452f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e47fbbd86b8769590c268afd47c8c7a7789c6cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_aac3b3b71ce96ebedab4d8d19579c63d2ce49453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="0670e5d7558411f9bbb46f2d4b7a888760097760">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/instant-run_b1dbe6435e2afacbcbc2dae71e8232f654e6acb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/kinyas/AndroidStudioProjects/BluetoothBulDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a3f1843af064e8ad7b6e56c8ba80657a3383e541.jar" />
+    </item>
+
+</items>
