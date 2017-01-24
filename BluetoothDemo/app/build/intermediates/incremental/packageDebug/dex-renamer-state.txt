@@ -1,0 +1,4 @@
+#Wed Aug 03 23:23:57 EEST 2016
+base.0=/home/kinyas/AndroidStudioProjects/BluetoothDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/kinyas/AndroidStudioProjects/BluetoothDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
